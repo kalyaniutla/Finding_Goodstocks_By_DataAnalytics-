@@ -23,6 +23,7 @@ Task 3: Calculate Bear Mode 1 and Bear Mode 2 based on percentage changes from 5
 Task 4: Identify the highest value of Market Cap and categorize stocks into Large, Medium, and Low Cap based on specified thresholds.
 
 Task 5: Create a new sheet containing data for 'Good Stock' and apply proper formatting and conditional formatting for enhanced visualization.
+![image](https://github.com/kalyaniutla/Finding_Goodstocks_By_DataAnalytics-/assets/167401916/e9580dfa-fa14-419a-a92b-c595556fca6d)
 
 
 
@@ -37,6 +38,7 @@ Picture 1: Original Data Set
 Description: Screenshot of the original "Data Set" sheet .
 
 
+![image](https://github.com/kalyaniutla/Finding_Goodstocks_By_DataAnalytics-/assets/167401916/15171117-9ef0-4be5-93b0-3d0681adacc7)
 
 
 
